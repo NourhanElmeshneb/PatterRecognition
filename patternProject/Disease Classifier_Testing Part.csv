@@ -1,0 +1,70 @@
+Condition,has_fever,has_Cough,has_Fatigue,has_Difficulty Breathing,patient_Age,patient_Gender,patient_Blood Pressure,patient_Cholesterol Level,Outcome Variable
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive
+Dementia,No,No,Yes,No,65,Female,High,High,Positive
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive
